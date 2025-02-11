@@ -3,7 +3,7 @@ import random
 import threading
 import time
 
-TOKEN = "ТВОЙ_ТОКЕН_ТУТ"  # Встав свій токен
+TOKEN = "7860881490:AAEok6jpIJP21CacayVztfGo2lkurkpfHcw"  # Встав свій токен
 bot = telebot.TeleBot(TOKEN)
 
 # Великий список персонажів
